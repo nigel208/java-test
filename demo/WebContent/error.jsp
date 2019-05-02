@@ -5,7 +5,7 @@
 <head>
 <style type="text/css">
 body {
-	background-color: fuchsia;
+	background-color:lime;
 }
 </style>
 <meta charset="ISO-8859-1">
